@@ -3,9 +3,6 @@ This project uses the Gabor Transform to isolate and reconstruct different instr
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Decomposing Music</title>
-  </head>
   <body>
     <h1>Decomposing Music</h1>
     <p>Please use the sample code CP2_sample.m to read in the sound clip CP2_SoundClip.mat. If you’re using Python, we’ll have a translation of it in the template, although presumably it’s not too different from MATLAB. Since MATLAB is available to all students, it might be best to run the MATLAB sample code just to hear it and see the signal.</p>
@@ -17,3 +14,5 @@ This project uses the Gabor Transform to isolate and reconstruct different instr
     </ol>
   </body>
 </html>
+
+Project report and results are in the CP2.pdf file.
